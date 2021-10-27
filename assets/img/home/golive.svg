@@ -1,0 +1,15 @@
+<svg width="384" height="384" viewBox="0 0 384 384" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="192" cy="192" r="192" fill="url(#paint0_linear)"/>
+<path d="M162.889 207.529C171.685 207.529 178.815 200.353 178.815 191.5C178.815 182.648 171.685 175.471 162.889 175.471C154.094 175.471 146.963 182.648 146.963 191.5C146.963 200.353 154.094 207.529 162.889 207.529Z" stroke="#EDF0F7" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M325.113 145.65V234.74C325.113 244.804 314.372 251.141 305.483 246.295L252.15 215.356V236.976C252.15 247.414 243.631 255.614 233.631 255.614H88.0756C77.7053 255.614 69.5571 247.041 69.5571 236.976V146.396C69.5571 135.959 78.0756 127.758 88.0756 127.758H233.261C243.631 127.758 251.779 136.331 251.779 146.396V165.034L305.113 134.095C314.372 128.876 325.113 135.213 325.113 145.65Z" stroke="#EDF0F7" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M147.707 226.167H128.818V210.884" stroke="#EDF0F7" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M197.336 208.274V226.167H180.669" stroke="#EDF0F7" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M179.557 156.833H197.335V174.726" stroke="#EDF0F7" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M128.818 178.826V156.833H149.188" stroke="#EDF0F7" stroke-width="10" stroke-miterlimit="10"/>
+<defs>
+<linearGradient id="paint0_linear" x1="384" y1="80.5161" x2="1.67017e-05" y2="303.484" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4C8BF5"/>
+<stop offset="1" stop-color="#0025A7"/>
+</linearGradient>
+</defs>
+</svg>
