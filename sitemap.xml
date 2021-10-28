@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://edumatica-website.vercel.app/</loc>
+  </url>
+  <url>
+    <loc>https://edumatica-website.vercel.app/index.html</loc>
+  </url>
+  <url>
+    <loc>https://edumatica-website.vercel.app/about.html</loc>
+  </url>
+  <url>
+    <loc>https://edumatica-website.vercel.app/resources.html</loc>
+  </url>
+  <url>
+    <loc>https://edumatica-website.vercel.app/bookdemo.html</loc>
+  </url>
+  <url>
+    <loc>https://edumatica-website.vercel.app/careers.html</loc>
+  </url>
+  <url>
+    <loc>https://edumatica-website.vercel.app/contactus.html</loc>
+  </url>
+</urlset>
